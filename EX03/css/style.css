@@ -1,0 +1,29 @@
+body{
+    background-color: #f4f4f4;
+    font-family: 15px/1.5 Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+/* Header **/
+header{
+    background-color: #333;
+    color: #fff;
+    padding-top: 30px;
+    margin-top: 20px;
+    min-height: 70px;
+    border-bottom:#e8491d 3px solid;
+}
+
+footer{
+    background-color: #e8491d;
+    color: #ffffff;
+    padding: 20px;
+    margin-top:20px
+    text-align: center;
+}
+
+
+
