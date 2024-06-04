@@ -75,7 +75,7 @@ section{
 
 .home {
     min-height: 100vh;
-    background-image: url(/images/slider-bg.jpg);
+    background-image: url(../RES/slider-bg.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
